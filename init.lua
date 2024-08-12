@@ -1,2 +1,2 @@
-require("theprimeagen")
-
+require("josean.core")
+require("josean.lazy")
